@@ -1,4 +1,13 @@
-# CodeIgniter 4 Framework
+# Laporan Praktikum Pertemuan 1 - 4 
+
+|                |                    |
+| ------------------ | ------------------ |
+|      _Nama_    | RO'UF MUHAMMAD FAUZAN |
+|      _NIM_     |      312410157     |
+|     _Kelas_    |      I241A    |
+|  _Mata Kuliah_ | Bahasa Pemrograman Web 2 |
+
+## CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
 
